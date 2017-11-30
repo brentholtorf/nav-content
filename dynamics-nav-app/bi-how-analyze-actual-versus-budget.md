@@ -40,7 +40,7 @@ In a budget with dimensions, you can filter the entries and see specific budgets
 You can view general ledger budgets and compare them with actual figures in several areas of [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Chart of Accounts**, and then choose the related link.  
-2. In the **Chart of Accounts** window, choose the **G/L Balance/Budget** action.
+2. In the **Chart of Accounts** window, choose the **G/L Balance/Budget** action.  
 3. At the top of the window, fill in the fields as necessary to define what is shown.  
 4. To see a specification that makes up the amount shown, choose the field.  
 
@@ -61,7 +61,7 @@ Instead of viewing the actual and budgeted amounts for all accounts within a sin
 4. To see a specification of an amount shown, choose the field.  
 
 ## See Also
-[Business Intelligence](bi.md)
+[Business Intelligence](bi.md)  
 [How to: Work with Account Schedules](bi-how-work-account-schedule.md)  
 [Finance](finance.md)  
 [Setting Up Finance](finance-setup-finance.md)  
